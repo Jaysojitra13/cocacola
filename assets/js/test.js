@@ -1,1 +1,1 @@
-console.lg("Flow comes here");
+console.log("Flow comes here");
